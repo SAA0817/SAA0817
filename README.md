@@ -32,3 +32,14 @@ All implementations are done in C++ with comprehensive testing, making the proje
 - Algorithm Optimization & Performance Testing
 
 [View Repository](https://github.com/SAA0817/Optimizing-Network-Maximum-Flow-Algorithms-and-Problem-Reduction)
+
+## Medical Image Segmentation Experiment with PaddleSeg
+
+**Project Overview:**
+This project focuses on testing the performance of various segmentation algorithms using PaddleSeg, an end-to-end image segmentation toolkit based on PaddlePaddle. It is designed to evaluate multiple segmentation models across key metrics such as accuracy, efficiency, and robustness in medical imaging tasks. By benchmarking a diverse range of pre-trained models and custom configurations, the project aims to identify optimal strategies for medical image segmentation, facilitating improvements in both research and practical applications.
+
+**Tech Stack:**
+- python
+- PaddlePaddle & PaddleSeg
+
+[View Repository](https://aistudio.baidu.com/projectdetail/6569322)
