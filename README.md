@@ -4,9 +4,9 @@
 
 🎓 Bachelor's in Statistics (Data Science & AI), Shandong University.
 
-🏆 ICPC Regional Silver Medalist | AI Researcher | Open-source Contributor
+🏆 ICPC Regional Silver Medalist
 
-🔍 Interested in interpretable AI for medical applications and product management.
+🔍 Interested in interpretable AI for medical applications.
 
 💡 Experienced in deep learning (PyTorch, TensorFlow), algorithm optimization, and software development.
 
